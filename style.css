@@ -1,0 +1,11 @@
+body {
+    background-color: lightblue;
+  }
+p { 
+ color: #1e06d1;
+}
+img {
+    display: block;
+    margin: auto;
+    width: 50%;
+  }
